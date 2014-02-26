@@ -1,0 +1,61 @@
+table {
+
+	border-spacing: 0;
+}
+
+td {
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	border: 0;
+}
+
+.alkali {
+	border: 1px solid #000;
+	background-color: #b5b5b5;
+}
+
+.alkaline {
+	border: 1px solid #000;
+	background-color: #55c686;
+}
+
+.transitional {
+	border: 1px solid #000;
+	background-color: #feff60;
+}
+
+.other {
+	border: 1px solid #000;
+	background-color: #ff6fb7;
+}
+
+.nonmetals {
+	border: 1px solid #000;
+	background-color: #68dbff;
+}
+
+.noble {
+	border: 1px solid #000;
+	background-color: #ffcc6c;
+}
+
+.gas {
+	color: #FF0000;
+}
+
+.liquid {
+	color: #3c3dff;
+}
+
+.synthetically {
+	color: #fff;
+}
+
+.atomicno {
+	text-align: left;
+}
+
+.invisible {
+	width: 100%;
+}
